@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: salar
+Build-Jdk: 12.0.2
+Implementation-Title: Seattle Public Library Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.javabrains.Group2-3
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/seattlePublicL
+ ibrary/
+Created-By: Maven Integration for Eclipse
+
